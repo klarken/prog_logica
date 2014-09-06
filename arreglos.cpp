@@ -65,5 +65,5 @@ int leeLista(int *lista, int tam)
 
 int main()
 {
- leeLista();
+   leeLista();
 }
